@@ -12,6 +12,7 @@ int main ()
    {
 
     printf("Ingrese A[%d]:", i);
+    scanf("%d", &A[i]:"
 
    }
    return 0;
